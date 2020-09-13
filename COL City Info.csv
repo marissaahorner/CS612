@@ -1,0 +1,21 @@
+City,COL Indicator,$
+Seattle,Rent,2111
+Boston,Rent,2249
+Denver,Rent,1451
+Austin,Rent,1107
+San Jose,Rent,2697
+Seattle,Utilites (Phone & Energy),426.39
+Boston,Utilites (Phone & Energy),488.74
+Denver,Utilites (Phone & Energy),323.86
+Austin,Utilites (Phone & Energy),303.78
+San Jose,Utilites (Phone & Energy),435.4
+Seattle,Gas,3.47
+Boston,Gas,2.89
+Denver,Gas,2.75
+Austin,Gas,2.44
+San Jose,Gas,2.91
+Seattle,Food Items (totaled),18.6
+Boston,Food Items (totaled),15.52
+Denver,Food Items (totaled),14.37
+Austin,Food Items (totaled),12.88
+San Jose,Food Items (totaled),17.72

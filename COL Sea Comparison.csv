@@ -1,0 +1,16 @@
+City,Job,Salary,COL Salary
+Seattle,Information Security Analyst,111390,111390
+San Jose,Information Security Analyst,133040,111165
+Boston,Information Security Analyst,106650,110716
+Denver,Information Security Analyst,98700,83692
+Austin,Information Security Analyst,114280,72838
+Seattle,Data Scientist,139880,139880
+San Jose,Data Scientist,171160,139598
+Boston,Data Scientist,118950,139034
+Denver,Data Scientist,120900,105098
+Austin,Data Scientist,124800,91467
+Seattle,Software Engineer,134090,134090
+San Jose,Software Engineer,145730,133820
+Boston,Software Engineer,115940,133279
+Denver,Software Engineer,110680,100748
+Austin,Software Engineer,106080,87681

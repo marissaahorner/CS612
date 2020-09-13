@@ -1,0 +1,31 @@
+City,COL Indicator,Factor %
+Seattle,Overall,49
+Boston,Overall,48
+Denver,Overall,12
+Austin,Overall,-3
+San Jose,Overall,49
+Seattle,Housing,94
+Boston,Housing,107
+Denver,Housing,34
+Austin,Housing,2
+San Jose,Housing,148
+Seattle,Utilities,23
+Boston,Utilities,41
+Denver,Utilities,-6
+Austin,Utilities,-12
+San Jose,Utilities,26
+Seattle,Groceries,27
+Boston,Groceries,6
+Denver,Groceries,-2
+Austin,Groceries,-12
+San Jose,Groceries,21
+Seattle,Transportation,33
+Boston,Transportation,11
+Denver,Transportation,6
+Austin,Transportation,-7
+San Jose,Transportation,11
+Seattle,Income Tax,0
+Boston,Income Tax,5
+Denver,Income Tax,4.63
+Austin,Income Tax,0
+San Jose,Income Tax,9.63
